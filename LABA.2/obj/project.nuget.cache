@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "psOWj5VIr71VBxkCI0gy6FUWaB4h+qvjehZ7T8GcqN+wG8Ap+FPMSSudo9P7jJmwNEFfrh6sO5XDmLaD/l9owg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\artem\\source\\repos\\LABA.2\\LABA.2\\LABA3.2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\artem\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
